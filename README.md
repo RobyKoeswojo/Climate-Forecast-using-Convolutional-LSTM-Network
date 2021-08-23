@@ -1,5 +1,7 @@
 # Tokyo Climate Forecast using Convolutional LSTM Network
 
+**Tags**: *time series*, *forecast*, *prediction*, *convolutional layer*, *recurrent neural network (RNN)*, *long short term memory (LSTM)*, *Tensorflow*, *Tensorflow Data*
+
 One of the most interesting stories from the Tokyo Olympics is the number of media reporting how the heat affects the athletes. 
 Many athletes fainted and some were forced to leave the competition in wheelchair due to the heat.
 The quadrennial event was thus labeled as "the hottest games ever", and all of this is indeed caused by none other than the climate change.
