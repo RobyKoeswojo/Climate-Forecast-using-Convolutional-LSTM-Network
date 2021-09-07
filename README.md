@@ -28,7 +28,7 @@ The data is available here: https://www.data.jma.go.jp/obd/stats/etrn/view/month
 ## Training the network  
 The convolutional LSTM network is trained for 100 epochs using Huber loss function optimized by stochastic gradient descent. 
 The metrics chosen to measure the performance of the model is mean absolute error (MAE).  
-A learning rate scheduler is applied beforehand to obtain the optimal learning rate scheduler.  
+A learning rate finder is applied beforehand to obtain the optimal learning rate.  
 
 | ![Learning rate optimization plot shows that 1e-5 is the optimal learning rate value](https://github.com/RobyKoeswojo/Climate-Forecast-using-Convolutional-LSTM-Network/blob/main/notebookimage/BestLR.png?raw=true) |
 |:--:| 
